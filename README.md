@@ -1,2 +1,2 @@
 # Understand-git
-Something to learn awsm
+Something to learn awsms
